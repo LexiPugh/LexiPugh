@@ -1,5 +1,5 @@
 # Nice to meet you! I'm Lexi 👋🏽
-🧠 I know - MySQL, PostgreSQL, Python, HTML, CSS, JavaScript, Excel, Tableau<br><br>💼 Looking for a job in - Data Analytics<br><br>📚 Interested in learning - Data Science, Machine Learning<br><br>💬 How to contact me - imlexipugh@gmail.com<br><br>🎮 Fun fact - I love gaming, though I tend to be bad at it
+🧠 I know - MySQL, PostgreSQL, Python, HTML, CSS, JavaScript, Excel, Tableau<br><br>💼 Looking for a job in - Data Analytics<br><br>📚 Interested in learning - Data Science, Machine Learning, Natural Language Processing<br><br>💬 How to contact me - imlexipugh@gmail.com<br><br>🎮 Fun fact - I love gaming, though I tend to be bad at it
 
 
 ## 🌐 Socials:
